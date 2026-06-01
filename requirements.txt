@@ -1,0 +1,4 @@
+bcrypt
+argon2-cffi
+pandas
+matplotlib
